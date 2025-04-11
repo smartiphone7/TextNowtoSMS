@@ -62,6 +62,10 @@ While group chats will import, they won't show up as a group chat. TextNow assig
 
 You can get an old Android phone or tablet for pretty cheap. If you install the TextNow app on it all your messages should sync, and then you could follow this guide normally. Unfortunately TextNow doesn't offer an option to export chats directly on iPhone. 
 
+# What about call logs?
+
+If you had TextNow set up as your default calling app while you made calls through TextNow, those calls will be automatically transferred to your new default calling app.
+
 # Credits
 
 Guide written by smartiphone7
