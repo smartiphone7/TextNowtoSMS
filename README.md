@@ -1,8 +1,7 @@
 # TextNowtoSMS
-Imports your TextNow exports to the native SMS app. 
 
 # What does this guide do?
-This guide will help you export your TextNow messages and add them to your native Android messaging app.
+This guide will help you export your TextNow messages (Text messages, images, videos, voice messages and voicemails) and add them to your native Android messaging app.
 
 # Exporting text messages from TextNow
 To export your messages from Textnow, you'll have to open the TextNow app, go to a message thread, click the three dots in the top right corner, and click "Export Conversation". Unfortunately there's no way to export all your message threads together, so you'll have to do this manually for each conversation you have and then transfer all the exports to your PC. 
