@@ -18,6 +18,9 @@ After you have all the exported .html files on your PC, make a new folder on the
 Now we will change the exports into a format the app "SMS Backup & Restore" can read. This is so we can import the files into the native Android SMS app. 
 
 Download this github repo as a zip file. Unzip the folder, and right click the .exe file.
+
+![image](https://github.com/user-attachments/assets/90e586c6-fdd7-4246-8865-6a51d5670b7d)
+
 Select properties, and then click on unblock. Double click the .exe file to run the program. (You may need to [disable real time protection on Windows Defender](https://support.microsoft.com/en-us/windows/virus-and-threat-protection-in-the-windows-security-app-1362f4cd-d71a-b52a-0b66-c2820032b65e) for the program to run correctly)
 
 ![image](https://github.com/user-attachments/assets/a8e30cf4-0cc9-4125-b5ac-ee6f4deb8f5a)
