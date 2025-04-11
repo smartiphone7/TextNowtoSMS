@@ -69,7 +69,9 @@ If you had TextNow set up as your default calling app while you made calls throu
 # Credits
 
 Guide written by smartiphone7
+
 TextNow to SMS program developed by Hamad Saquib (WhatsApp: +92 317 2772704)
+
 Inspired by u/Baller_shock_caller's [Google Voice to SMS tool](https://www.reddit.com/r/Googlevoice/comments/1asiq0x/google_voice_sms_tool_complete/)
 
 If you need any help or support you can either send a message to me at +1 (415) 500-0385 or send a Reddit DM to u/smartiphone7.
